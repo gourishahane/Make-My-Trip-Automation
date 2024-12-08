@@ -54,6 +54,6 @@ This project automates various aspects of the Make My Trip website to verify sea
 
 ## Contact Information
 - Name: Gouri Shahane
-- Email: gouri.shahane@example.com
+- Email: gourishahane@gmail.com
 - GitHub: github.com/gourishahane
 - LinkedIn: linkedin.com/in/gourishahane
